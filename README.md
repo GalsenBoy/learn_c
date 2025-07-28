@@ -19,3 +19,6 @@ Pour compiler un programme C :
 ```bash
 gcc nom_du_fichier.c -o nom_du_programme
 ./nom_du_programme
+
+## OU
+gcc nom_du_fichier.c -o nom_du_programme && ./nom_du_programme
